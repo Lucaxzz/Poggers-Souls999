@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - passafase
+  - portal
+  - inimigo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - ground
+  - Player
+  - enemyLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: fundo
+    uniqueID: 3028252179
+    locked: 0
+  - name: primeira-layer
+    uniqueID: 1251482163
+    locked: 0
+  - name: 2
+    uniqueID: 1140105899
+    locked: 0
+  - name: 3
+    uniqueID: 1903447645
+    locked: 0
+  - name: 4
+    uniqueID: 3793644149
+    locked: 0
+  - name: 6
+    uniqueID: 1593206057
+    locked: 0
+  - name: 7
+    uniqueID: 3631976519
+    locked: 0
+  - name: 8
+    uniqueID: 826660739
+    locked: 0
+  - name: 9
+    uniqueID: 2193580381
+    locked: 0
